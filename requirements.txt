@@ -1,0 +1,4 @@
+falkordb
+streamlit
+python-dotenv
+google-genai
